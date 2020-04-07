@@ -7,17 +7,17 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/ng-training/4.0a81f18383e66424cc5b.js",
-        "/ng-training/5.5afc34e8e3503e5eb638.js",
-        "/ng-training/6.a2c9f3eea90d9ea48f57.js",
-        "/ng-training/7.0dc8f3f93ebc00184c61.js",
-        "/ng-training/8.10ae447ef5b7f2e2242d.js",
+        "/ng-training/4.000d4c7e4cfc42660e75.js",
+        "/ng-training/5.4d85020e9320c6ea7046.js",
+        "/ng-training/6.d27448038aaab70827aa.js",
+        "/ng-training/7.2a8895dbc4a39a11091a.js",
+        "/ng-training/8.e3b0f2a2aae2458f3e60.js",
         "/ng-training/favicon.ico",
         "/ng-training/index.html",
-        "/ng-training/main.e58f4c705a081572a051.js",
-        "/ng-training/polyfills.adf1ebdfd438a1c64a11.js",
-        "/ng-training/runtime.c2a2a870fd0c242f07cd.js",
-        "/ng-training/styles.c0a022e4fa8283e5b0a7.css"
+        "/ng-training/main.dec0cf11a28f1700f1eb.js",
+        "/ng-training/polyfills.65553620a3f2d02d9546.js",
+        "/ng-training/runtime.940440c766ce8fcb7fb6.js",
+        "/ng-training/styles.848c5430fa18e4b4f728.css"
       ],
       "patterns": []
     },
@@ -47,11 +47,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ng-training/4.0a81f18383e66424cc5b.js": "a21a7f08135eef0c2997edb1c9ef5bf8de7644a4",
-    "/ng-training/5.5afc34e8e3503e5eb638.js": "68cb63db9d6f49d5d326c1c812689140e36d5a1d",
-    "/ng-training/6.a2c9f3eea90d9ea48f57.js": "56a3052cc513660c0fba2d85bb6d86cb5380f443",
-    "/ng-training/7.0dc8f3f93ebc00184c61.js": "4bb3decc87e1a47e62b0d821b11f3ddfffdda6c2",
-    "/ng-training/8.10ae447ef5b7f2e2242d.js": "0139782efe79991422b682c39e89aa3f0a00d5a9",
+    "/ng-training/4.000d4c7e4cfc42660e75.js": "302edc2c152a059d5cd71a561e046363e16899a7",
+    "/ng-training/5.4d85020e9320c6ea7046.js": "b8525d1b94e1a9cae26fe11e0436cb775e93903d",
+    "/ng-training/6.d27448038aaab70827aa.js": "4e10be6f8c699ef51c6f6d096352820eaef506e2",
+    "/ng-training/7.2a8895dbc4a39a11091a.js": "31ac973dd510a09c287fe404bb08398576c4d489",
+    "/ng-training/8.e3b0f2a2aae2458f3e60.js": "81ee7dd62f08bd725e37462d352bc0b730879137",
     "/ng-training/assets/bg-border.svg": "df067a4882be9cc866574cf5add14145a2ffda72",
     "/ng-training/assets/circle.svg": "e8546e3a8d38e0544776323be3f97c775ce322c8",
     "/ng-training/assets/events.json": "1ec6abeb4eb0c69f3930e8443946cf2597f7e415",
@@ -68,11 +68,11 @@
     "/ng-training/assets/slider2.jpg": "f09fcea5c2a95340728e506fd9ea8350bd8fa9d0",
     "/ng-training/assets/slider3.jpg": "1228b4cd6f1b4d9bbbb8f3a47d15feb5c2a5bfc0",
     "/ng-training/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/ng-training/index.html": "9651d59f1dbeb6c546a936fb3e70d7dc90a69a55",
-    "/ng-training/main.e58f4c705a081572a051.js": "fbbe7e79295bff97bff4f24d95fb4c17ab44ebde",
-    "/ng-training/polyfills.adf1ebdfd438a1c64a11.js": "aa7363c101e482e011cc2facf83fa09c6ee7e782",
-    "/ng-training/runtime.c2a2a870fd0c242f07cd.js": "049aba57a413b06e8c2084e20de8d62006a49dc6",
-    "/ng-training/styles.c0a022e4fa8283e5b0a7.css": "644565ce7414704fc25b437c60054f55145026bb"
+    "/ng-training/index.html": "dec47b4af0788952337773298c09c6aa8297f09b",
+    "/ng-training/main.dec0cf11a28f1700f1eb.js": "019656fd0cf0ef4905d1a81e71767188e64aab4d",
+    "/ng-training/polyfills.65553620a3f2d02d9546.js": "4e56bf696ac56c89bbc6ba65e5c1e2f988759d00",
+    "/ng-training/runtime.940440c766ce8fcb7fb6.js": "f76facdedacf9dfd298032cfe0e78529ecb7d36a",
+    "/ng-training/styles.848c5430fa18e4b4f728.css": "eb62bbd8602952d340f791008643a402559d262f"
   },
   "navigationUrls": [
     {
